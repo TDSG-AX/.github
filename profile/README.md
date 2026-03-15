@@ -30,7 +30,9 @@ AI 기술의 현업 도입을 통한 업무 혁신과 발전 방안을 체계적
 ---
 
 ## 오픈정보
-- 🌐 <a href="https://tdsg-ax.github.io/selim_LlmVramCalc/" target="_blank">LLM VRAM 계산기</a>
+- 🌐 <a href="https://tdsg-ax.github.io/selim_LlmVramCalc/" target="_blank">LLM VRAM 계산기</a> 모델 성능 및 VRAM 추정 도구 
+- 🌐 <a href="https://tdsg-ax.github.io/selim_chatSpark/" target="_blank">small chatbot</a> 소형 마크다운(MD)문서 기반 상담 간단 챗봇서비스
+- 🌐 <a href="https://tdsg-ax.github.io/selim_AgentFit/" target="_blank">selim AgentFit</a> 멀티에이전트 필요성을 평가하고, 아키텍처를 AI 컨설팅받는 도구
 
 ---
 
